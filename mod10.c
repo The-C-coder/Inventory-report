@@ -29,9 +29,9 @@ main()
      total_value +=value;
      i++;
     }
-    printf("----------------\n");
+    printf("****************\n");
     printf("Total_value=5e\n",total_value);
-    printf("----------------\n");
+    printf("****************\n");
     }
 
 
